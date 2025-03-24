@@ -34,7 +34,7 @@
     "minimatch": "^9.0.1",
     "node-fetch": "^3.3.2",
     "p-limit": "^6.2.0",
-    "p-retry": "^5.1.2"
+    "p-retry": "^6.2.1"
   },
   "devDependencies": {
     "@jest/globals": "^29.7.0",
